@@ -1,4 +1,4 @@
-y# ford-casestud
+# ford-casestudy
 
 Run the springboot main class SpringRestClient.java
 
