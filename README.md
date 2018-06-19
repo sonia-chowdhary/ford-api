@@ -4,7 +4,7 @@ Run the springboot main class SpringRestClient.java
 
 
 Token creation call :
-curl -X POST 'http://localhost:8090/oauth/token?grant_type=password&username=Test&password=test123' -H 'Authorization: Basic bXktdHJ1c3RlZC1jbGllbnQ6c2VjcmV0' 
+curl -X POST 'http://localhost:8090/oauth/token?grant_type=password&username=bill&password=abc123' -H 'Authorization: Basic bXktdHJ1c3RlZC1jbGllbnQ6c2VjcmV0'
 
 Other Calls :
   For all years : 
